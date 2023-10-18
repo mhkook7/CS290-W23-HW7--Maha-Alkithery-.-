@@ -3,4 +3,4 @@ Create fileA.txt (empty file)
 feature1
 feature 1 with 1 bug
 feature 1 with bug fix
-feature 1 with bug fix feature 2
+
